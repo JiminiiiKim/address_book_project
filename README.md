@@ -49,7 +49,7 @@ Addrs_search_phone(addrs, "1번")
 Addrs_apply(addrs, 1번, 2번, "3번")
 
 * 현재 사용할 수 있는 함수는 printrecord가 있음.
-* 
+
 1번 : 사용할 함수명, 함수는 void (Record *, void *)형
 
 2번 : 함수 내에 사용할 void 포인터
